@@ -1,0 +1,16 @@
+merkletree_cpp
+merkletree_js
+
+merkletree_0000.zkey
+merkletree_0001.zkey
+merkletree.r1cs
+merkletree.sym
+pot12_0000.ptau
+pot12_0001.ptau
+pot12_final.ptau
+proof.json
+public.json
+verification_key.json
+verifier.sol
+witness.wtns
+parameters.txt
