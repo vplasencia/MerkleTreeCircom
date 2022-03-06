@@ -4,7 +4,7 @@ Circuit using circom that takes a list of numbers input as leaves of a Merkle tr
 
 ## Compile the circuit and generate and verify the zk-proof using snarkjs
 
-The first time:
+To compile the circuit and generate and verify the zk-proof the first time, run:
 
 ```console
 chmod u+x execute.sh
