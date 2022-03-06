@@ -1,4 +1,4 @@
-# Merkel tree using circom
+# Merkle tree using circom
 
 Circuit using circom that takes a list of numbers input as leaves of a Merkle tree and outputs the Merkle root.
 
